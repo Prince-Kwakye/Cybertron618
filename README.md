@@ -2,7 +2,7 @@
 
 I'm a polyglot developer with expertise in:
 
-- **Languages:** C#, Python, C++, Java
+- **Languages:** C#, Python, and Ruby
 - **Interests:** Building innovative software solutions
 
 ## 🌟 Featured Projects
